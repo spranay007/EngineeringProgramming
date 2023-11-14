@@ -1,7 +1,7 @@
 /**
  * @author Pranay Saha
  * @date 13th of November 2023
- * @details this programmes gets input by the user and calculates the bill amount
+ * @details this programmes gets input by the user and calculates the bill amount for the order
 */
 
 #include "Product.h"
